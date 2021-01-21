@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData">
+  <component name="PublishConfigData" autoUpload="Always" serverName="yspavlovskiy@dp-aster-test:22 password">
     <serverData>
       <paths name="stdwarf@192.168.20.60:22 password">
         <serverdata>
@@ -9,6 +9,14 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="yspavlovskiy@dp-aster-test:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yspavlovskiy/flask-ldap" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
     </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
